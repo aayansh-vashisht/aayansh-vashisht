@@ -1,6 +1,6 @@
 Hi, I'm Aayansh Vashisht.
 
-B.Tech CSE (AI ML) student focused on full-stack development and applied AI engineering.
+Focused on full-stack development and applied AI engineering.
 
 Currently Learning & Building
 - Frontend Architecture: Modern React (hooks, state derivation, component lifecycle), Vite, and React Router
